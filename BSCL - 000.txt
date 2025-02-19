@@ -1,0 +1,16 @@
+Beta Server Change Log
+
+Added 
+- test
+
+Removed
+- 
+
+Changed
+- asd
+
+Updated
+- 
+
+Notes
+- test
