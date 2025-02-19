@@ -1,16 +1,16 @@
 Beta Server Change Log
 
 Added 
--
+- test
 
 Removed
--
+- 
 
 Changed
 -
 
 Updated
--
+- this is a test
 
 Notes
 -
