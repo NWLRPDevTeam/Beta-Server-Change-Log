@@ -1,7 +1,7 @@
 Beta Server Change Log
 
 Added 
-- test
+- 
 
 Removed
 - 
@@ -10,7 +10,7 @@ Changed
 -
 
 Updated
-- this is a test
+- this is a 
 
 Notes
 -
