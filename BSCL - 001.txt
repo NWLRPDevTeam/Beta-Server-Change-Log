@@ -1,0 +1,47 @@
+Beta Server Change Log
+
+Added 
+- 
+
+Removed
+- kfruad
+- qbx-core/shared/job
+- ox_inventory/data/items
+
+Changed
+- randol_multijob
+- [ox]
+- [qbx]
+- [standalone]
+
+Updated
+- 
+
+Notes
+- kfruad
+ - Removed due to incompatiblity with framework
+- randol_multijob
+ - Added Jobs
+  - kcso
+  - wsp
+  - sas
+  - yellowjack
+  - vpburgershot
+  - burgershot
+  - exo
+ - Added Gang/Club
+  - exo
+  - offo
+  - 
+- qbx-core/shared/job
+ - Removed Duplicate job
+  - ambulance 
+  - burgershot
+- [ox]
+ - Moved to resources folder from [assests]/[scrtipts]
+- [qbx]
+ - Moved to resources folder from [assests]/[scrtipts]
+- [standalone]
+ - Moved to resources folder from [assests]/[scrtipts]
+- ox_inventory/data/items
+ - Removed Duplicate Items  
