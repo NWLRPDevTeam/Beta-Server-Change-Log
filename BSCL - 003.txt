@@ -1,0 +1,18 @@
+Beta Server Change Log
+
+Added 
+- engineswap
+- farming
+- fishing
+
+Removed
+- 
+
+Changed
+-
+
+Updated
+- yeseries
+
+Notes
+-
